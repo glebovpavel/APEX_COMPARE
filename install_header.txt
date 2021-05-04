@@ -1,0 +1,12 @@
+/**********************************************
+**
+** Author: Pavel Glebov
+** Date: 05-2021
+** Version: 0.9
+**
+** This all in one install script contains all DB objects
+**
+**********************************************/
+
+
+
