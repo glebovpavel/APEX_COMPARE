@@ -1,6 +1,6 @@
 CREATE OR REPLACE PACKAGE BODY am_compare AS
  
- NULL_DATA constant varchar2(20 char) default '?ÄÖ?Ü&%&%$&%$&%Ö?';
+ NULL_DATA constant varchar2(30 char) default '?§-?*&%&%$&%$&%^?';
  
  procedure compare_trees(
     p_left_export_id    IN am_exports.export_id%TYPE,
